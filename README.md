@@ -1,34 +1,7 @@
-# spider_tool-JUN
-爬虫/采集数据调试工具 PythonSpiderTools
 下载地址：
 蓝奏：https://wws.lanzous.com/b01hk5stg  密码:2ihv
 百度云：https://pan.baidu.com/s/1wPjTR7jyM5VAxN-10yd45Q 提取码：mszl
 GitHub：https://github.com/Xiaojunv/spider_tool-JUN
-#使用文档
-
---前言，开发工具初衷：作者是Python爬虫工程师，接到公司的爬虫需求比较多，在正式开发写代码前，需要不断的去调试网站接口以及返回的数据来确定是否可行性
-
-但是调试又得去写代码调试，来来回回折腾的挺麻烦，所以就想着开发这一款工具，来帮助提高开发的效率，工具目的：正式写代码前对app接口,以及网页数据调试，当然这个也可以用作接口的测试工具
-
- 
-
-#版本介绍说明
-
-spider_tool-JUN-测试版
- 完成基础功能
-spider_tool-JUN-V0.0.1	完成了生成代码功能，优化了xpath/正则来回切换，增加了软件下载更新地址
- 
-
- 
-
- 
-
- 
-
- ##功能介绍以及使用说明##
-
-
-
  
 
 1.地址url: 字面意思，输入需要请求的接口地址，或网址必须为 http:// 或 https:// 开头 不能直接输入比如：www.baidu.com
@@ -112,6 +85,3 @@ https://xxxxx?q=js
 
 ........emmm因作者迫于生活贫穷 如果此软件有帮助到你的话可以给作者送丢丢温暖
 
-
-
- 
